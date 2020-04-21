@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PALauncher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PALauncher_jar</output-path>
+    <root id="archive" name="PALauncher.jar">
+      <element id="module-output" name="PALauncher" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DevelopmentTools/java-cef/bin/jcef.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DevelopmentTools/java-cef/bin/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DevelopmentTools/java-cef/bin/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DevelopmentTools/java-cef/bin/jcef-tests.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DevelopmentTools/java-cef/bin/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../DevelopmentTools/java-cef/bin/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

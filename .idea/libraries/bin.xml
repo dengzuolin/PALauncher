@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../DevelopmentTools/java-cef/bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../DevelopmentTools/java-cef/bin" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../DevelopmentTools/java-cef/bin" recursive="false" />
+  </library>
+</component>
